@@ -2,7 +2,11 @@
       <div id="app">
         <h1>Calculadora do Reba</h1>
         <Calculator />
+        
     </div>
+    
+
+    
 </template>
 
 <script>
@@ -35,6 +39,6 @@ body {
     text-align: center;
 
     color: #fff;
-    background: linear-gradient(to right, rgb(83, 105, 118), rgb(41, 46, 73));
+    background: linear-gradient(to right, rgb(230, 171, 100), rgb(218, 201, 130));
 }
 </style>
